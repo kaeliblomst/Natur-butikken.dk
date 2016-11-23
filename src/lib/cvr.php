@@ -70,13 +70,8 @@ class cvr {
 		$query = [
 			'size' => 10,
 			"_source" => [
-				"Vrvirksomhed.virksomhedMetadata.nyesteBeliggenhedsadresse",
 				"Vrvirksomhed.virksomhedMetadata.nyesteNavn",
-				"Vrvirksomhed.virksomhedMetadata.nyesteHovedbranche",
 				"Vrvirksomhed.cvrNummer",
-				"Vrvirksomhed.virksomhedsform",
-				"Vrvirksomhed.livsforloeb",
-				"Vrvirksomhed.telefonNummer"
 			],
 			'query' => [
 				'filtered' => [
