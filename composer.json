@@ -1,7 +1,6 @@
 {
     "name": "morningtrain/laravelcvr",
     "type": "library",
-    "description": ":package_description",
     "keywords": [
         "morningtrain",
         "laravelcvr"
@@ -10,9 +9,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
+            "name": "Morning Train",
+            "email": "mail@morningtrain.dk",
+            "homepage": "https://morningtrain.dk",
             "role": "Developer"
         }
     ],
