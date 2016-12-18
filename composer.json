@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "morningtrain\\laravelcvr\\": "src"
+            "kaeliblomst\\konkurrencer\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "morningtrain\\laravelcvr\\": "tests"
+            "kaeliblomst\\konkurrencer\\": "tests"
         }
     },
     "scripts": {
