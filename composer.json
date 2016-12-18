@@ -2,10 +2,10 @@
     "name": "kaeliblomst/konkurrencer",
     "type": "library",
     "keywords": [
-        "konkurrencer nonstop",
-        "laravelcvr"
+        "konkurrencer",
+        "konkurrence"
     ],
-    "homepage": "https://github.com/kaeliblomst/konkurrencer/",
+    "homepage": "https://github.com/kaeliblomst/konkurrencer",
     "license": "MIT",
     "authors": [
         {
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "kaeliblomst\\konkurrencer\\": "src"
+            "morningtrain\\laravelcvr\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "kaeliblomst\\konkurrencer\\": "tests"
+            "morningtrain\\laravelcvr\\": "tests"
         }
     },
     "scripts": {
