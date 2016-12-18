@@ -1,17 +1,17 @@
 {
-    "name": "morningtrain/laravelcvr",
+    "name": "kaeliblomst/konkurrencer",
     "type": "library",
     "keywords": [
-        "morningtrain",
+        "konkurrencer nonstop",
         "laravelcvr"
     ],
-    "homepage": "https://github.com/Morning-Train/laravelcvr",
+    "homepage": "https://github.com/kaeliblomst/konkurrencer/",
     "license": "MIT",
     "authors": [
         {
-            "name": "Morning Train",
-            "email": "mail@morningtrain.dk",
-            "homepage": "https://morningtrain.dk",
+            "name": "Konkurrencer Nonstop",
+            "email": "kontakt@konkurrencer-nonstop.dk",
+            "homepage": "https://www.konkurrencer-nonstop.dk",
             "role": "Developer"
         }
     ],
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "morningtrain\\laravelcvr\\": "src"
+            "kaeliblomst\\konkurrencer\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "morningtrain\\laravelcvr\\": "tests"
+            "kaeliblomst\\konkurrencer\\": "tests"
         }
     },
     "scripts": {
