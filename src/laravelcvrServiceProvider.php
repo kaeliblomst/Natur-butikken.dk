@@ -1,6 +1,6 @@
 <?php
 
-namespace morningtrain\laravelcvr;
+namespace kaeliblomst/konkurrencer;
 
 use Illuminate\Support\ServiceProvider;
 
