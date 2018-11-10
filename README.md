@@ -1,3 +1,3 @@
-# konkurrencer
-konkurrencer nonstop
-https://www.konkurrencer-nonstop.dk
+# naturen
+Natur butikken
+https://www.natur-butikken.dk
